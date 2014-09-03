@@ -1,0 +1,16 @@
+fan:srn:pracs:tutes:exam401:exam402:assignment
+gard0050::100:100:100:100:100
+lazy0001::0:0:0:0:0
+examonly::0:0:100:100:0
+assnonly::0:0:0:0:100:100
+pntsonly::100:100:0:0:0
+badexam::100:100:0:0:100
+oneexam::100:100:0:100:100
+oneexamb::100:100:100:0:100
+okexam::100:100:70:70:100
+goodexam::100:100:80:80:100
+badpracs::0:0:100:100:100
+okpracs::70:70:100:100:100
+fairpracs::80:80:100:100:100
+spotty1::70:90:50:100:100
+rule1::30:30:100:79:100
